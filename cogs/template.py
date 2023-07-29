@@ -1,6 +1,5 @@
 import discord
 from discord.ext import commands
-from decimal import Decimal
 
 class template(commands.Cog):
     def __init__(self, bot):
