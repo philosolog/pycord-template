@@ -1,5 +1,5 @@
 # What is this?
-A template repository that I'll use for my future Python-based Discord bot creations. Feel free to use it as you wish.
+A template repository that I made for my Python-based Discord bot creations. Feel free to use it as you wish.
 
 Suggestions and improvements are greatly appreciated!
 # Usage
