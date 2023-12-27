@@ -1,4 +1,4 @@
-# What is this?
+# What's this?
 A template repository that I made for my Python-based Discord bot creations. Feel free to use it as you wish.
 
 Suggestions and improvements are greatly appreciated!
