@@ -3,10 +3,12 @@ A template repository that I made for my Python-based Discord bot creations. It 
 
 Suggestions and improvements are greatly appreciated!
 # Usage
+## Setup
 - Get the [requirements](https://guide.pycord.dev/installation) from the terminal:
 ```console
 pip install -r requirements.txt
 ```
 - Edit/assign values in `.env`.
   - Set up `alternate.env` if you want to run a test-bot.
-- For more, check out the [Pycord documentation](https://docs.pycord.dev/en/stable/).
+## Customization
+Check out the [Pycord documentation](https://docs.pycord.dev/en/stable/).
