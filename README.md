@@ -1,5 +1,5 @@
 # What's this?
-A template repository that I made for my [Pycord](https://pycord.dev)-based Discord bot creations. Feel free to use this template as you wish.
+A template repository that I made for my [Pycord](https://pycord.dev)-based Discord bot creations. Feel free to use it as you wish.
 
 Suggestions and improvements are greatly appreciated!
 # Usage
